@@ -1,6 +1,6 @@
-# FileShare
+# File Sharing Platform
 
-FileShare is a simple file-sharing application built using Node.js. It allows users to upload files and generate shareable links for easy file distribution. The link expires after 24 hours for security purposes. Users can also share the download link via email.
+File Sharing Platform is a simple file-sharing application built using Node.js. It allows users to upload files and generate shareable links for easy file distribution. The link expires after 24 hours for security purposes. Users can also share the download link via email.
 
 ## Features
 
